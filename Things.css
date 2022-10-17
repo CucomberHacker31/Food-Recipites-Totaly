@@ -1,0 +1,12 @@
+.format{
+width:60%
+}
+.thing {
+    style="width:70%;"
+
+}
+
+.bg-gradient{
+    background-image: var(--bs-gradient);.
+}
+
