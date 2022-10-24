@@ -1,12 +1,4 @@
-.format{
-width:60%
-}
-.thing {
-    style="width:70%;"
-
-}
-
-.bg-gradient{
-    background-image: var(--bs-gradient);.
-}
-
+.navbar-collapse2 {
+    display: flex !important; // stylelint-disable-line declaration-no-important
+    flex-basis: auto;
+  }
