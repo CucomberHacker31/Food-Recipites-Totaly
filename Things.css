@@ -8,5 +8,18 @@
     color: beige;
   }
 
+  h1 {
+    border: 2px;
+    border-color: brown;
+  }
+
+li {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.li
+{
+  font-family: 'Times New Roman', Times, serif;
+}
 
   
